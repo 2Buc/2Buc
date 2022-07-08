@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @2Buc
+- 👀 I’m interested in linking machine learning with climate data...
+- 🌱 I’m currently finishing my master in Business Analytics...
+- 📫 How to reach me: by email or on linkedin @emeric Bucaille...
+
+<!---
+2Buc/2Buc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
